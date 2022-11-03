@@ -1,0 +1,27 @@
+{
+  "name": "web-scraping",
+  "version": "1.0.0",
+  "description": "It is a project done under the guidance of Dr. Sridhar Chimalakonda for his Software Engineering course.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samveg-techie/Web-Scraping.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samveg-techie/Web-Scraping/issues"
+  },
+  "homepage": "https://github.com/Samveg-techie/Web-Scraping#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20",
+    "octokit": "^2.0.10"
+  }
+}
